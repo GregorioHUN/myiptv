@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Szaffi (1984)
-https://abra--5e4bd524.oleg.api.cosmic-crab.buzz/9c3d5743eb71d1571b105915a2900e2354116cb3/Szaffi.1984.READ.NFO.1080p.FMIO.WEB-DL.AAC2.0.H264.HuN-CRLS/crls-szaffi.1080p.mkv?api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1&download=true&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjczMDU5NzQsInJhdGUiOiIyME0iLCJyb2xlIjoiYnJvbnplIiwic2Vzc2lvbklEIjoiNjRhYTJkMGZjYTQ0YzhmZGUzMDM0Y2VjNzkwMTkwNzNhNmJiMWRiMCIsImRvbWFpbiI6IndlYnRvci5pbyIsImFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE4LjUgU2FmYXJpLzYwNS4xLjE1IEVkZy8xNDMuMC4wLjAiLCJyZW1vdGVBZGRyZXNzIjoiOTAuMTY3LjE1OC4xNDcifQ.D6ZMp1lxB9Sbk4PK_9oC8gRUHa_fF8B-h_NH5KBmXgc
+#EXTINF:-1 tvg-id="szaffi1984" tvg-name="Szaffi (1984)" group-title="Movies",Szaffi (1984)
+https://abra-....mkv
 
-#EXTINF:-1,My Grinch (2018)
-https://abra--5e4bd525.oleg.api.cosmic-crab.buzz/025ff9600f9333609b0edb4f9d89e71cba725528/The.Grinch.2018.1080p.UHD.BluRay.DD+5.1.x264.HuN-CRLS/crls-the.grinch.1080p.mkv?api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1&download=true&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjcyOTYwODAsInJhdGUiOiIyME0iLCJyb2xlIjoiYnJvbnplIiwic2Vzc2lvbklEIjoiNjRhYTJkMGZjYTQ0YzhmZGUzMDM0Y2VjNzkwMTkwNzNhNmJiMWRiMCIsImRvbWFpbiI6IndlYnRvci5pbyIsImFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE4LjUgU2FmYXJpLzYwNS4xLjE1IEVkZy8xNDMuMC4wLjAiLCJyZW1vdGVBZGRyZXNzIjoiOTAuMTY3LjE1OC4xNDcifQ.uwYep9J_rwwO8tcyOpnPRyzHPvWLxokkqZ4rIs2QxKQ
+#EXTINF:-1 tvg-id="grinch2018" tvg-name="The Grinch (2018)" group-title="Movies",The Grinch (2018)
+https://abra-....mkv
